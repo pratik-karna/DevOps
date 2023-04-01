@@ -1,2 +1,2 @@
 # DevOps
-DevOps Claa
+DevOps one credit course sample text repo
